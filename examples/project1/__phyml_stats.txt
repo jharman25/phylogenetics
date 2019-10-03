@@ -10,25 +10,25 @@
 . Tree topology search: 		SPRs
 . Initial tree: 			BioNJ
 . Model of amino acids substitution: 	LG
-. Number of taxa: 			38
-. Log-likelihood: 			-4636.85961
-. Unconstrained log-likelihood: 	-747.50046
-. Composite log-likelihood: 		-16932.86841
-. Parsimony: 				833
-. Tree size: 				7.27235
+. Number of taxa: 			37
+. Log-likelihood: 			-4548.14171
+. Unconstrained log-likelihood: 	-748.88675
+. Composite log-likelihood: 		-16498.68328
+. Parsimony: 				822
+. Tree size: 				6.91844
 . Discrete gamma model: 		Yes
   - Number of classes: 			4
-  - Gamma shape parameter: 		0.724
-  - Relative rate in class 1: 		0.07925 [freq=0.250000] 		
-  - Relative rate in class 2: 		0.37449 [freq=0.250000] 		
-  - Relative rate in class 3: 		0.93334 [freq=0.250000] 		
-  - Relative rate in class 4: 		2.61291 [freq=0.250000] 		. aLRT statistics to test branches
+  - Gamma shape parameter: 		0.743
+  - Relative rate in class 1: 		0.08341 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.38318 [freq=0.250000] 		
+  - Relative rate in class 3: 		0.93986 [freq=0.250000] 		
+  - Relative rate in class 4: 		2.59355 [freq=0.250000] 		. aLRT statistics to test branches
 
 . Run ID:				none
-. Random seed:				1569872288
+. Random seed:				1569881071
 . Subtree patterns aliasing:		no
 . Version:				3.3.20190321
-. Time used:				0h0m53s (53 seconds)
+. Time used:				0h0m37s (37 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
